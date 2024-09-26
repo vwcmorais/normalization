@@ -1,0 +1,55 @@
+steps:
+  - label: "Build image"
+    key: "build"
+    agents:
+        queue: "catho-core-us-east-1-arm"
+    env:
+      AWS_DEFAULT_REGION: "us-east-1"
+    commands:
+        - "make build"
+
+  - label: "Run tests"
+    key: "test"
+    depends_on: "build"
+    agents:
+        queue: "catho-core-us-east-1-arm"
+    env:
+      AWS_DEFAULT_REGION: "us-east-1"
+    commands:
+        - "make test"
+
+  - label: "Push image to AWS ECR"
+    key: "push"
+    depends_on: "test"
+    agents:
+        queue: "catho-core-us-east-1-arm"
+    env:
+      AWS_DEFAULT_REGION: "us-east-1"
+    commands:
+        - "make push"
+        - buildkite-agent annotate "Docker image version __\${BUILDKITE_BRANCH}-\${BUILDKITE_BUILD_NUMBER}__ built and pushed to registry" --style 'success' --context 'build-status'
+
+  - label: "Push auxiliary ( filebeat, jaeger... ) images to ECR if commit message has [push aux]"
+    key: pushmisc
+    if: build.message =~ /\[push aux\]/
+    agents:
+        queue: "catho-core-us-east-1-arm"
+    env:
+      AWS_DEFAULT_REGION: "us-east-1"
+    commands:
+        - "make push_misc"
+
+  - block: "Launch instance refresh"
+    key: "launch"
+    depends_on: "push"
+    prompt: "Launch instance refresh ?"
+    blocked_state: passed
+
+  - label: "Start an instance refresh on staging environment so it pulls new image version"
+    depends_on: "launch"
+    agents:
+        queue: "catho-core-us-east-1-arm"
+    env:
+      AWS_DEFAULT_REGION: "us-east-1"
+    commands:
+        - "make refresh_staging"

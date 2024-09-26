@@ -1,0 +1,21 @@
+# Termos contendo caracteres especiais ou stopwords
+# Linhas que começam com # são comentários
+# A ordem das regras importa, já que são aplicadas na ordem em que aparecem no arquivo
+# Se uma regra vai substituir um termo, este termo não deve constar nas linhas abaixo da mesma
+dotnet,.net,dot net,dot.net
+vbdotnet,vb.net,vb. net,vb . net,vb dotnet,vb net
+aspdotnet,asp.net,asp. net,asp . net,asp dotnet,asp net
+csharp,c#,c #,c sharp
+cpp,c++,c ++
+ccc,c
+rrr,r
+nodejs,node.js,node js,node
+reactjs,react.js,react js,react
+javascript,js,java script
+plsql,pl sql,pl-sql
+ecommerce,e-commerce,commerce
+pandd,p&d,p & d,pesquisa desenvolvimento
+tandd,t&d,t & d,treinamento desenvolvimento
+pj,pessoa juridica,pessoa jurídica
+joaopessoa,joao pessoa,joão pessoa
+pcd,pessoa com deficiencia,pessoa com deficiência

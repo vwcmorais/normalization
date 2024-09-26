@@ -1,0 +1,334 @@
+# Linhas que começam com # são comentários
+# A ordem das regras importa, já que são aplicadas na ordem em que aparecem no arquivo
+# Se uma regra vai substituir um termo, este termo não deve constar nas linhas abaixo da mesma
+abatedor,acougueiro
+acupunturista,acupuntura
+administrador,administrativo,administracao,adm,admin,administradore,administrar
+administrador banco dado,administrador database,administrador db
+advogado,direito,juridico,oab,advocacia,lawyer,attorney,advogar,law
+afiador,amolador,afiar,amolar
+agencia turismo,agencia viagem,agente viagem,agente turismo
+agendamento,marcacao
+agente,atendente,agenciador
+agente portaria,agp
+agricultura,agricola,agropecuario,pecuaria
+agrimensor,agrimensura,topografo,cartografia,hidrografia,geometer,cartografo,hidrografo,topograph
+agronomo,agronomia,agronomico,agronomy,agronomist
+ajudantegeral,ajudante geral
+alemao,german,germany
+alergista,alergologista
+almoxarifado,almoxarife,deposito
+ambiental,environmental,meio ambiente
+ambiente,environment
+analista,analyst,analise,analisar,analysis,analyses
+analistasem,analista sem
+analytic,analytics
+apicultor,abelha
+areasem,area sem
+armazem,armazenagem,armazenista
+arquiteto,arquitetura,urbanista,urbanismo,architect,architecture
+arquivologista,arquivologia
+arrematadeiro,arrematador
+arrumadeiro,arrumador,camareiro
+arte,art,arts
+artefinalista,arte finalista
+assado,assar
+assessor,assessoria,assessorar
+assistente,assistant
+atacado,wholesale,atacadista
+ator,dublador
+audiovisual,audio,video,sonoplasta,sonoplastia
+auditor,auditoria,auditar
+autocad,auto cad,cadista
+automovel,veiculo,carro,automobilistico,automotivo
+auxiliar,aux
+baba,baby sitter,pajem,baba folguista
+back end,backend
+balconista,atendimento balcao,agente balcao,gente balcao
+bancotalento,banco talento,banco curriculo
+banco,bancario
+bartender,barman,barmen
+beneficio,gratificacao,gratificar
+bibliotecario,biblioteconomia,biblioteca,librarian,biblioteconomista
+bi,business intelligence
+biela,bielas
+biologo,biologia,biologist
+biomedicina,biomedico,biomedicine
+blogueiro,blogueira,bloguista
+bordador,bordar
+borracheiro,borracharia
+buffet,catering,banquete
+cabeleireiro,hairdresser,hairstyler,cabeleireira
+cadastro,cadastrar
+callcenter,call center,call,contactcenter,contact
+cargosalario,cargo salario
+carregadeira,colheitadeira,colhedor,ceifadeiro
+carreteiro,carreta,carreto,caminhoneiro,carman,caminhao,truck,cegonha
+cartonageiro,cartonagem,papelao
+ccomp,ciencia computacao
+cego,cegar
+celular,mobile,cell
+centralizado,centralizar
+ceo,presidente,president,presidenta,chief executive,vice presidente,vicepresidente,diretor executivo,presidencia,diretor geral
+cfo,diretor financeiro,chief financial
+chapista,chapeador
+chef,chef cozinha,chefe cozinha,entremetier
+chefe,chefia,subchefe,chefiar
+chro,diretor recurso humano,diretor rh,diretor departamento pessoal,diretor dp
+cientista,ciencia,scientist,science
+cinegrafista,cameraman
+cio,diretor ti,chief information,diretor tecnologia informacao,cto,cito,chief technology,diretor infraestrutura sistema,diretor telecomunicacao
+cirurgiao,cirurgia,surgeon,cirurgico
+cisco,ccna
+civel,civilista
+cliente,customer
+climatizado,climatizar
+clinico,consultorio,clinicar
+clt,celetista
+cmo,diretor marketing,chief marketing,marketing director
+codificado,codificar
+colonoscopista,colonoscopia
+comercial,sale
+comissario,aeromoca,taifeiro,agente bordo
+ecommerce,commerce
+compra,purchase,purchasing,comprar,aquisicao
+computador,pc,notebook,laptop,console
+confeiteiro,boleiro,doceiro
+conferista,conferente
+conselheiro,conselho,aconselhar
+consultor,consultant
+conta,account
+contador,contabil,contabel,contabilidade,accounting
+container,conteiner
+conteudo,content
+contrato,contratualista
+coo,diretor operacao,chief operational
+coordenador,coordenadore,coordinator,coordenacao,coordination,coordenar,coord
+corretor,corretagem
+costureiro,costurar
+cozinheiro,cozinha,cook,culinarista
+criminal,criminalista
+csharp,c sharp,sharp
+dancarino,danca,dancer,dance,bailarino,dancar
+database,banco dado,db
+dentista,odontologia,odontologico
+dep,depto,dept,departamento
+depilador,depilacao,depilar
+desenho,desenhar,desenhista
+desenvolvedor,desenvolvedora,developer
+designer,designers,design
+digitador,digitacao
+diretor,director,diretore,diretoria
+documentalista,documentador
+documentar,documentado
+domestica,empregada,maid
+dp,dep pessoal,personnel
+editor,editora
+educacao,education,ensino,educ
+educador,educadore
+elaborar,confeccionar,criar,criacao,elaboracao,criador,gerar,geracao
+eletricista,eletrico,eletrica
+empilhador,empilhadeiro,empilhar
+encarregado,encar,subencarregado
+enfermeiro,enfermagem,enfermaria
+engenheiro,eng,engineer,engenharia,engineering
+entregador,entrega,delivery
+entretenimento,entertainment
+especialista,expert,specialist,especializado,especializacao
+estagiario,estagio,intern,estagiar
+estande,stand,stands
+estatistico,statistics
+estetico,corporal estetico
+estofado,estofador
+estoque,estoquista,stockman
+estudante,aluno,discente
+excel,excell
+exportacao,export
+expresso,express,expressa
+exterior,internacional,international
+farmaceutico,farmacia,pharmacist
+faturista,faturamento,refatoramento,faturar,fatura
+faxineiro,faxinar
+fazenda,equinocultura,cunicultura
+felino,felideo
+ferramenteiro,ferramentaria,matrizeiro
+financeiro,finance,financa,financial
+fiscalizador,fiscal,fiscalizar
+fisioterapeuta,fisioterapia,physiotherapist,fisioterapico
+fluente,fluencia,fluentemente
+fonoaudiologo,fonoterapeuta,fonoaudiologista
+frances,french,france
+freelancer,freelance,lance,free lancer
+front end,frontend
+funcionario,empregado
+full stack,fullstack
+garcom,waiter,garconete,waitress,garson
+gastronomo,gastrologo
+geneticista,genetico
+gerente,gestor,gerencia,gestao,gerenciamento,gerenciar,manager,management
+gerentesem,gerente sem
+grelado,grelhar
+guindaste,guindasteiro
+headhunter,hunter
+hebiatra,hebiatria
+historia,historiador
+hospital,pronto socorro,pronto atendimento,hospitalar
+hotel,hostel,pousada,hotelaria,hoteleiro
+imovel,imobiliario
+importacao,import
+industrial,industria,industry,fabrica,factory
+informatica,computacao,ti,tecnologia,system,information,technology,it
+ingles,english,ingle
+inspetor aluno,agente organizacao escolar
+instrutorfisico,instrutorafisica,instrutor fitness
+instrutor,instrutore,instructor
+interno,interior
+interpretacao,interpretar
+jardim,jardinagem,jardins
+javascript,java script
+jogo,game,videogame
+jornaleiro,entregador jornal,entregador revista
+jornalista,jornalismo,imprensa,journalist,journalism,press,webjornalista,webjornalismo
+junior,jr
+laboratorista,laboratorio,lab
+latoeiro,latoaria
+lecionar,ministrar aula
+lider,lideranca,liderar,leader,leadership,lead
+limpeza,limpador
+lixador,lixadeiro
+lixeiro,gari,varredor rua,varredor
+logistica,transporte,logistics,logistic,transportation
+macariqueiro,macarico
+manutentor,manutencao
+maquiador,maquiagem,maquilagem,cosmetico,makeup,maquilador
+marceneiro,marcenaria
+marinheiro,conves
+massoterapeuta,massagista,massagem,masseur,massoterapia
+metalurgico,siderurgico,metalurgia,siderurgia
+meteorologista,meteorologia,agrometeorologia
+metre,maitre
+metrologista,metrologia
+microbiologista,microbiologico,microbiologia
+mkt,marketing
+modelador,modelar
+moenda,moinho
+moldador,moldar
+motoboy,moto boy,mototaxi,motofrete,motociclista,mototaxista,motogirls,motogirl
+motorista,condutor,driver
+museologo,museu
+musicista,musica,music,musicar,musico,musical,musicalizacao
+negocio,business
+neonatologista,neonatologia,neonatal
+neurocirurgiao,neurocirurgia
+nodejs,node js
+nutricionista,nutricao,nutritionist,nutrologo
+obstetra,obstetrico
+obstetra,obstetriz,ginecologista,ginecologia
+oceanologia,oceanografia
+officeboy,office boy,office girl
+ong,ongs,organizacao nao governamental,ngo
+operacao,operations,operation
+operacional,administrador operacional
+operador,operator
+ortodontia,ortodontista
+ourive,joalheiro
+pandd,pesquisa desenvolvimento
+panfleteiro,panfletagem
+pedagogo,pedagogia,pedagogico,pedagogica,pedagogue
+penal,criminal
+pesador,pesagem
+petroleo,oil,petroquimico
+pianista,piano
+piloto,piloto aviao
+piscicultura,pesca,truticultura,aquicultura
+piscineiro,piscina
+plano,planejamento,planner,planejar
+plsql,pl sql
+pleno,pl
+plotagem,plotter
+porteiro,portaria,porteiro diurno
+portugues,portugue,portuguese
+posvendedor,pos vendedor,pos venda,pos vendas
+prensa,prensista,prensagem
+preparador fisico,preparador fisica
+prevendedor,pre vendedor,pre venda,pre vendas
+processo,process,processe
+professor educacao fisica,professora educacao fisica,professor educacaofisica,professora educacaofisica,educadorfisico,educadorafisica
+professor,professora,professore,teacher,tutor,tutora,tutore,docente
+programador,programadora,programmer,programacao
+projeto,project
+promoter,eventos,evento
+proprietario,dono
+psicologo,psicologa,psicoterapeuta,psychologist,psicanalista,psicologia,psicologico
+publicitario,propaganda,publicidade,advertising,merchandising,promocao
+publico,public
+qualidade,quality,qa
+queijeiro,manteigueiro,laticinio
+quimico,chemical
+radialista,radialismo,radio
+radiologia,radiologista,radiologist,radioprotecao
+reactjs,react js
+rebarbador,rebarba,escarfador
+recepcionista,recepcao,receptionist
+recreacionista,recreador
+recrutador,recrutamento,recruiter,recrutar
+recurso,resource,resource,recursos
+redator,writer,especialista redacao,redator texto
+rede,network
+relatorio,report,reports,relatoria
+religioso,religiao
+repositor,repositora
+rh,recurso humano,human recurso,hr
+risco,risk
+sales development representative,representante desenvolvimento vendas,sdr
+secretario,secretariado,secretary
+seguranca,security,seguranca pessoal,vspp
+selecionador,selecao
+senior,sr
+sericultor,sericicultura,sericultura,sericicultor
+servico,service
+sistema,sist
+soldador,solda,soldagem
+subgerente,subgerencia,subgerenciar
+superintendente,superintendencia
+supermercado,hipermercado
+supervisor,subsupervisor,supervisore,supervisao,supervision,supervisionar
+supridor,suprimento
+sushiman,sushi
+tandd,treinamento desenvolvimento
+tatuador,tatoo
+tecelao,tecedor
+tecido,roupa,pano
+tecnico,tecnica,tec,technical,technician
+tecnico saude bucal,tsb
+tecnologo,tecnologa,tecnologista
+telecom,telecomunicacao,telefonia,telecommunication
+telefone,telefonico,telefonema
+telemkt,telemarketing
+televenda,televendo,televendedor,teleshopping,telecobranca,teleoperador,teleconsultor,teleatendente,teleatendimento
+telhador,telhadista
+terapeuta,terapia,therapist
+termoeletrica,termeletrica
+terraplanagem,terraplenagem
+tesoureiro,tesouraria,treasury
+tintureiro,tinturaria
+torrista,sondador,plataformista
+tosador,banho tosa,banhista
+trabalhista,advogado trabalho
+tradutor,traduzir,traducao
+treinador,treinamento,training,treino
+tributarista,tributario,tributo,tributar
+turismologo,turismo,turistico,tourism,tour,turista
+tv,televisao,television
+ug,unigraphics
+ultrassom,ultrassonografia
+uxui,uiux,ux ui,ui ux,ux,ui
+designer uxui,uxui designer
+varejista,retail,varejo
+vendedor,salesman,vendas
+vidraceiro,vidracaria
+vigilante,guarda,guardete,vigilante feminino,vigilante feminina
+web,internet
+webdesigner,webdesign,web designer
+webwriter,webwriting,redator web
+zootecnista,zootecnia

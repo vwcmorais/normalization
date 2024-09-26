@@ -1,0 +1,36 @@
+{
+  "RabbitMQ": {
+    "host": "localhost",
+    "port": "5672",
+    "user": "guest",
+    "password": "guest"
+  },
+  "AbTestApi": {
+    "auth": "Basic xxxx",
+    "host": "localhost:8192",
+    "test_name": "role_norm_v2"
+  },
+  "RoleNormalizationApi": {
+    "user": "joao",
+    "password": "xxxx",
+    "auth": "Basic xxxxx",
+    "host": "localhost:8192"
+  },
+  "MySQL": {
+    "user": "aips_rolenorm",
+    "password": "xxxxx",
+    "read_host": "mysqlhades.vs",
+    "write_host": "mastersite.vs",
+    "cv_write_table": "DISABLED_conline.cur_cargo",
+    "work_exp_write_table": "DISABLED_conline.curexpprof_adicionais",
+    "flag_write_host": "masterhades.vs",
+    "flag_write_table": "DISABLED_catholabs.cargo_normalizado",
+    "job_write_table": "DISABLED_conline.vag_cargo",
+    "job_flag_write_table": "DISABLED_catholabs.cargo_normalizado_vaga",
+    "read_applies_host": "warehouse.vs"
+  },
+  "EventsApi": {
+    "usr_applies_url": "https://001.catho-events.data.catholabs.com/v1/users/applies/",
+    "job_applies_url": "https://001.catho-events.data.catholabs.com/v1/jobs/applies/"
+  }
+}
